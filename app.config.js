@@ -24,7 +24,7 @@ export default {
       predictiveBackGestureEnabled: false,
       config: {
         googleMaps: {
-            apiKey: "AIzaSyBSLYrALswlPNBhhF4o8N2T8Q6a7iljxmY",
+            apiKey: "",
         },
       },
       permissions: [
